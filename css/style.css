@@ -9843,9 +9843,9 @@ h6 {
 /* Coopconprobien*/
 .container-probien{
   width: 100%;
-  max-width: 1000px;
-  /*margin: auto;
-  margin-top: 100px;*/
+  max-width: 900px;
+  margin: auto;
+  margin-top: 50px;
 }
 .lbl-menu{
   background:#ED6436;
