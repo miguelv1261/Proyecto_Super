@@ -16,7 +16,7 @@
     transition: all 400ms ease;
   }
   .lbl-menu label:hover{
-    background: #20c979;
+    background: #c1ebd7;
   }
   .content-probien{
     position: relative;
@@ -58,10 +58,10 @@
     left: 28px;
   }
   .content-probien .tab2:after{
-    left: 122px;
+    left: 130px;
   }
   .content-probien .tab3:after{
-    left: 210px;
+    left: 250px;
   }
   
   
