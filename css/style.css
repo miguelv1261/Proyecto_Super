@@ -9844,8 +9844,8 @@ h6 {
 .container-probien{
   width: 100%;
   max-width: 700px;
-  margin: auto;
-  margin-top: 100px;
+  /*margin: auto;
+  margin-top: 100px;*/
 }
 .lbl-menu{
   background:#ED6436;
