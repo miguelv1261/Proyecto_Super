@@ -36,7 +36,26 @@
     visibility: visible;
     transform: scale(1);
   }
-
+  .content div:after{
+    position: absolute;
+    content: "";
+    border-left: 10px solid
+    transparent;
+    border-right: 10px solid
+    transparent;
+    border-top: 10px solid
+    transparent;
+    border-bottom: 10px solid
+    #fff;
+    bottom: 100%;
+    left: 28px;
+  }
+  .content .tab2:after{
+    left: 180px;
+  }
+  .content .tab3:after{
+    left: 300px;
+  }
   
   
  
