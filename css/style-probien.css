@@ -25,6 +25,17 @@
     background: #fff;
     padding-bottom: 40px;
   }
+  #radio1,#radio2,#radio3{
+    display:none;
+  }
+  #radio1:checked ~ .tab1,
+  #radio2:checked ~ .tab2,
+  #radio3:checked ~ .tab3
+  {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+  }
 
   
   
