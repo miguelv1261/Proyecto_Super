@@ -3,7 +3,7 @@
   }
   .lbl-menu label{
     display: inline-block;
-    padding: 20px;
+    padding: 10px;
     color:#F2F2F4;
     cursor: pointer;
     transition: all 400ms ease;
@@ -11,7 +11,20 @@
   .lbl-menu label:hover{
     background: #c1ebd7;
   }
-   
+  .content{
+    position: relative;
+  }
+  .content div{
+    position: absolute;
+    line-height: 1.8;
+    transition: all 600ms ease;
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(0.90);
+    padding: 30px;
+    background: #fff;
+    padding-bottom: 40px;
+  }
 
   
   
