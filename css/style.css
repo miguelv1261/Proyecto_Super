@@ -6104,8 +6104,8 @@ a.close.disabled {
 }
 
 .carousel-inner {
-  position: relative;
-  width: 100%;
+  position: center;
+  width: 50%;
   overflow: hidden;
 }
 
